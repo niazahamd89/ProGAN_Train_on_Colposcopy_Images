@@ -16,6 +16,15 @@ Extract the zip file and put the pth.tar files in the directory with all the pyt
 ### Training
 Edit the config.py file to match the setup you want to use. Then run train.py
 
+### Requirements
+
+Python 3.6
+conda install -c anaconda scipy
+pip3 install torch==conda install -c conda-forge tqdm
+conda install -c conda-forge albumentations
+1.7.0 torchvision==0.8.1 -f https://download.pytorch.org/whl/cu101/torch_stable.html
+
+
 ## ProGAN paper
 ### Progressive Growing of GANs for Improved Quality, Stability, and Variation by Tero Karras, Timo Aila, Samuli Laine, Jaakko Lehtinen
 
