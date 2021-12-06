@@ -4,7 +4,7 @@ A clean, simple and readable implementation of ProGAN in PyTorch. I've tried to 
 ## Results
 ||
 |:---:|
-|![](results/result1.png)|
+|![](result1.png)|
 |![](results/64_examples.png)|
 
 
