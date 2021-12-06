@@ -19,10 +19,10 @@ Edit the config.py file to match the setup you want to use. Then run train.py
 ### Requirements
 
 Python 3.6
-conda install -c anaconda scipy
-pip3 install torch==conda install -c conda-forge tqdm
-conda install -c conda-forge albumentations
-1.7.0 torchvision==0.8.1 -f https://download.pytorch.org/whl/cu101/torch_stable.html
+conda install -c anaconda scipy \n
+pip3 install torch==conda install -c conda-forge tqdm \n
+conda install -c conda-forge albumentations \n
+1.7.0 torchvision==0.8.1 -f https://download.pytorch.org/whl/cu101/torch_stable.html \n
 
 
 ## ProGAN paper
