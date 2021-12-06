@@ -8,9 +8,6 @@ A clean, simple and readable implementation of ProGAN in PyTorch. I've tried to 
 |![](results/64_examples.png)|
 
 
-### Celeb-HQ dataset
-The dataset can be downloaded from Kaggle: [link](https://www.kaggle.com/lamsimon/celebahq).
-
 ### Download pretrained weights
 Download pretrained weights [here](https://github.com/aladdinpersson/Machine-Learning-Collection/releases/download/1.0/ProGAN_weights.zip).
 
